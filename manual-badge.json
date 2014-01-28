@@ -1,0 +1,8 @@
+{
+ "name":"Manual Badge Creator",
+ "description":"This badge shows the recipient created a badge manually",
+ "image":"http://mihi-tr.github.io/bobi/manual-badge.png",
+ "criteria":"http://mihi-tr.github.io/bobi/manual-badge.html",
+ "issuer":"http://mihi-tr.github.io/bobi/issuer.json"
+}
+
