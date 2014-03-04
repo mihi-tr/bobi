@@ -1,0 +1,14 @@
+{
+ "uid": "1",
+ "recipient" : {
+    "identity": "sha256$c3c0fbbe531d1c86b54b8553e93220085c17c7bf5178467a7e011c75dbe47ffc",
+    "type": "email",
+    "hashed": true
+    },
+ "badge": "http://mihi-tr.github.io/bobi/manual-badge.json",
+ "verify": {
+    "type": "hosted",
+    "url": "http://mihi-tr.github.io/bobi/assertion-1.json"
+    },
+ "issuedOn": "1393924084"
+}
